@@ -1,0 +1,13 @@
+build/
+.pio/
+.vscode/
+*.elf
+*.bin
+*.hex
+*.map
+secrets.h
+config.h
+.env
+*.local
+.DS_Store
+Thumbs.db
